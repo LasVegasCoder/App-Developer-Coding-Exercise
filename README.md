@@ -48,8 +48,8 @@ http://www.ticketfly.com/api/events/upcoming.json?orgId=1&apiKey=LdcdJWkpj1nOl8S
 
 Other parameters you might find useful:
 
-**maxResults**: The number of results to display per page
-**pageNum**: The page number to retrieve
+**maxResults**: The number of results to display per page  
+**pageNum**: The page number to retrieve   
 **q**: A text search query. This is used by the search box on ticketfly.com and understands quotes phrases and the use of AND , OR (case sensitive). It matches against the artist name, event name, promoter name and venue name & city. For example:
 
 /api/events/upcoming.json?orgId=1&q=%22The+Lemonheads%22+San+Francisco
