@@ -1,7 +1,7 @@
-Ticketfly App Developer Coding Exercise
+Ticketfly Web App Developer Coding Exercise
 ===========================================
 
-Ticketfly is looking for talented, pragmatic application developers who know how to  leverage modern web frameworks whenever possible and fill in the blanks when necessary. The following challenge is designed for you to demonstrate your ability to do just that. Please use the framework/language that you are most comfortable with - if you wish to use Grails, we recommend using 1.3.7 or 2.0.x.
+Ticketfly is looking for talented, pragmatic web application developers who know how to  leverage modern web frameworks whenever possible and fill in the blanks when necessary. The following challenge is designed for you to demonstrate your ability to do just that. Please use the framework/language that you are most comfortable with - if you wish to use Grails, we recommend using 1.3.7 or 2.0.x.
 
 ### Some ground rules
 At a minimum, this exercise should take 1.5 to 2 hours to complete. If you have more time to devote to it, that’s great. If you don’t have time to implement all the basic features, then find some way of conveying your thoughts on how you might do so. The bonus features are optional, but please give some thought on how you might implement one or two of them.
