@@ -38,13 +38,13 @@ All of Ticketfly’s event data is available through our API. The most commonly 
 
 ### Example upcoming event API request:
 
-http://www.ticketfly.com/api/events/upcoming.json?orgId=1&apiKey=LdcdJWkpj1nOl8SwTV0U
+http://www.ticketfly.com/api/events/upcoming.json?orgId=1
 
 The orgId parameter represents the organization you wish to obtain data for. Org 1 is all public events in the USA, and is the org you should use for this exercise.
 
 If you wish to use JSONP, you can add the callback parameter and pass the name of the javascrtipt function that will process the result of the API call:
 
-http://www.ticketfly.com/api/events/upcoming.json?orgId=1&apiKey=LdcdJWkpj1nOl8SwTV0U&callback=myCallbackFunction
+http://www.ticketfly.com/api/events/upcoming.json?orgId=1&callback=myCallbackFunction
 
 Other parameters you might find useful:
 
