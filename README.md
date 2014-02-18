@@ -29,7 +29,7 @@ Choose a 3rd party API to integrate with. Some examples might be: Last.fm, Songk
 * Write specification-based tests using a framework such as Cucumber or Spock
 
 ### Deliverables
-Please zip up your source and email it to jobs@ticketfly.com.
+Please zip up your source and email it to code@ticketfly.com.
 
 Appendix - A quick guide to Ticketfly’s API
 ===========================================
